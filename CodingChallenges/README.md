@@ -3,7 +3,7 @@
 Here you can find all the source code for the coding Challenges I made.
 
 Here is the playlist of all my coding challenges:
-https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH
+[Watch Youtube Playlist](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH "Coding Challenges")
 
 ## List of Coding Challenges
 
@@ -193,3 +193,28 @@ https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4Fi
   - [Processing Version](CC_72_SimplePerceptron/)
 - Coding Challenge #73: Frogger
   - [Processing Version](CC_73_Frogger/)
+- Coding Challenge #74: Clock
+  - [JavaScript Version](CC_74_Clock/)
+- Coding Challenge #75: Wikipedia
+  - [JavaScript Version](CC_75_Wikipedia/)
+- Coding Challenge #76: 10PRINT
+  - [JavaScript Version](CC_76_10PRINT/)
+- Coding Challenge #77: Recursion
+  - [JavaScript Version](CC_77_Recursion/)
+- Coding Challenge #78: Simple Particle System
+  - [JavaScript Version](CC_78_Simple_Particle_System/)
+- Coding Challenge #79: Number Guessing Chatbot
+  - [JavaScript Version](CC_79_Number_Guessing_Chatbot/)
+- Coding Challenge #80: Voice Chatbot with p5.Speech
+  - [Javascript Version](CC_80_Voice_Chatbot_with_p5.Speech/)
+- Coding Challenge #81: Circle Morphing
+  - [Javascript Version](CC_81_1_Circle_Morphing_Part_1/) (Part 1)
+  - [Javascript Version](CC_81_2_Circle_Morphing_Part_2/) (Part 2)
+- Coding Challenge #82: Image Chrome Extention: The Ex-Kitten-sion
+  - [Javascript Version](CC_82_Image_Chrome_Extension_The_Ex-Kitten-sion)
+- Coding Challenge #83: Chrome Extension with p5js Sketch
+  - [Javascript Version](CC_83_Chrome_Extension_with_p5js_Sketch)
+- Coding Challenge #84: Word Definition Extension
+  - [Javascript Version](CC_84_Word_Definition_Extension)
+- Coding Challenge #85: The Game of Life
+  - [Javascript Version](CC_85_The_Game_of_Life)
